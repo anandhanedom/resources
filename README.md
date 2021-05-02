@@ -1,4 +1,4 @@
-# Development Resources
+# Resources
 
 One stop shop for all resources
 
